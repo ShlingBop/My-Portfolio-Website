@@ -260,6 +260,11 @@ input, select, textarea {
 
 /* Row */
 
+		.portfolioImages img {
+			object-fit: fill;
+			height: 240px;
+		}
+
 	.row {
 		display: flex;
 		flex-wrap: wrap;
